@@ -1,1 +1,1 @@
-# D-Universit-I-ANNO-I-anno-I-semestre-Statistical-Methods-of-Data-science
+# Statistical-Methods-of-Data-science
